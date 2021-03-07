@@ -9,4 +9,4 @@ Operating Systems 2021-1
 * [Log](https://github.com/nadifahsn/os211/blob/master/TXT/mylog.txt)
 
 ## Top 10 List
-[x] <b>[Week 01](https://nadifahsn.github.io/os211/W01/)</b>
+- [x] <b>[Week 01](https://nadifahsn.github.io/os211/W01/)</b>
