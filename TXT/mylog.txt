@@ -2,18 +2,24 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode https://osp4diss.vslm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related
-ZCZC W01 270 L22 YouTube: study, etc.
-ZCZC W01 120 L26 Movie: relax, etc.
+ZCZC W01 270 L22 YouTube: study, listening music
+ZCZC W01 120 L26 Movie: relax
 ZCZC W01 10 L03 GitHub related
-ZCZC W01 20 L09 AsDos: asking, etc.
+ZCZC W01 20 L09 AsDos: asking assignment
 ZCZC W01 90 L05 GSGS related
 ZCZC W01 40 L10 Assignment (General)
 ZCZC W01 30 L08 Trying something
-ZCZC W01 30 L23 Discord: discussion, etc.
-ZCZC W01 180 L21 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 30 L23 Discord: discussion, chatting.
+ZCZC W01 180 L21 VirtualBox: install GNU/Linux
 ZCZC W01 120 L11 Assignment #1
 ZCZC W01 120 L12 Assignment #2
 ZCZC W01 90 L13 Assignment #3
 ZCZC W01 120 L14 Assignment #4
 ZCZC W01 20 L15 Assignment #5
 ZCZC W01 35 L16 Assignment #6 
+ZCZC W01 45 L17 Assignment #7
+ZCZC W01 40 L18 Assignment #8
+ZCZC W01 150 L02 ZOOM related
+ZCZC W01 40 L07 Demo related
+ZCZC W01 60 L01 SCELE related
+ZCZC W01 60 L04 GitHub Pages: setting up, editing readme.md and W01
