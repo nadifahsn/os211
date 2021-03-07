@@ -1,7 +1,7 @@
 # os211
 Operating Systems 2021-1
 
-***Welcome to Hasna's Github Page*** :sunflower:
+***Welcome to Hasna's Github Page***🌻
 
 ## Operating Systems 2021-1 (Semester Genap 2020/2021)
 
