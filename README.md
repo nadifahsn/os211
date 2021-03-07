@@ -6,7 +6,7 @@
 🌻 ***Welcome to My Github Page*** 🌻
 
 
-[Home](https://nadifahsn.github.io/os211/) | [Week 01](https://nadifahsn.github.io/os211/W01/) | [Github](https://github.com/nadifahsn/os211) | [Log](https://github.com/nadifahsn/os211/blob/master/TXT/mylog.txt) | [Rank](https://github.com/nadifahsn/os211/blob/master/TXT/myrank.txt)
+[Home](https://nadifahsn.github.io/os211/) | [Week 01](https://nadifahsn.github.io/os211/W01/) | [Github](https://github.com/nadifahsn/os211) | [Log](https://nadifahsn.github.io/os211/TXT/mylog.txt) | [Rank](https://github.com/nadifahsn/os211/blob/master/TXT/myrank.txt)
 
 
 ***Hello, My name is Hasna! I am currently studying in Universitas Indonesia and majoring in Computer Science***
