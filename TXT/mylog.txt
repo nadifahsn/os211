@@ -23,3 +23,22 @@ ZCZC W01 150 L02 ZOOM related
 ZCZC W01 40 L07 Demo related
 ZCZC W01 60 L01 SCELE related: check announcements, read and answer forum
 ZCZC W01 60 L04 GitHub Pages: setting up, editing readme.md and W01
+ZCZC W02 150 L02 Zoom Related
+ZCZC W02 60 L11 Assignment #1
+ZCZC W02 50 L12 Assignment #2
+ZCZC W02 5 L13 Assignment #3
+ZCZC W02 15 L14 Assignment #4
+ZCZC W02 15 L15 Assignment #5
+ZCZC W02 50 L16 Assignment $6
+ZCZC W02 80 L17 Assignment #7
+ZCZC W02 10 L18 Assignment #8
+ZCZC W02 10 L19 Assignment #9
+ZCZC W02 60 L05 GSGS Related: push in Github
+ZCZC W02 120 L01 SCELE related: check announcements, read and answer forum
+ZCZC W02 20 L04 GitHub Pages: setting up, editing readme.md and W01
+ZCZC W02 15 L23 Discord: discussion, chatting
+ZCZC W02 5 L09 AsDos: asking assignment
+ZCZC W02 120 L22 YouTube: study, listening music
+ZCZC W02 240 L26 Movie: relax
+ZCZC W02 300 L10 Assignment (General)
+
