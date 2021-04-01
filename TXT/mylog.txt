@@ -68,3 +68,11 @@ ZCZC W04 350 L10 Assignment (General)
 ZCZC W05 120 L01 SCELE related: check announcements, read and answer forum
 ZCZC W05 30 L11 Assignment #1
 ZCZC W05 5 L12 Assignment #2
+ZCZC W05 45 L13 Assignment #3
+ZCZC W05 15 L14 Assignment #4
+ZCZC W05 7 L15 Assignment #5
+ZCZC W05 3 L16 Assignment #6
+ZCZC W05 150 L01 SCELE related
+ZCZC W05 20 L23 Discord: discussion, chatting
+ZCZC W05 300 L10 Assignment (General)
+ZCZC W05 200 L02 Zoom Related
