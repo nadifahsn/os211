@@ -76,3 +76,15 @@ ZCZC W05 150 L01 SCELE related
 ZCZC W05 20 L23 Discord: discussion, chatting
 ZCZC W05 300 L10 Assignment (General)
 ZCZC W05 200 L02 Zoom Related
+ZCZC W06 20 L01 SCELE related: check announcements, read and answer forum
+ZCZC W06 45 L11 Assignment #1
+ZCZC W06 5 L12 Assignment #2
+ZCZC W06 60 L13 Assignment #3
+ZCZC W06 10 L14 Assignment #4
+ZCZC W06 10 L15 Assignment #5
+ZCZC W06 3 L16 Assignment #6
+ZCZC W06 10 L23 Discord: discussion, chatting
+ZCZC W06 300 L10 Assignment (General)
+ZCZC W06 200 L02 Zoom Related
+ZCZC W06 120 L26 Movie: relax
+ZCZC W06 30 L22 YouTube: study, wacthing music videos
