@@ -88,3 +88,13 @@ ZCZC W06 300 L10 Assignment (General)
 ZCZC W06 200 L02 Zoom Related
 ZCZC W06 120 L26 Movie: relax
 ZCZC W06 30 L22 YouTube: study, wacthing music videos
+ZCZC W07 30 L11 Assignment #1
+ZCZC W07 10 L12 Assignment #2
+ZCZC W07 60 L13 Assignment #3
+ZCZC W07 45 L14 Assignment #4
+ZCZC W07 10 L15 Assignment #5
+ZCZC W07 3 L16 Assignment #6
+ZCZC W07 180 L02 Zoom Related
+ZCZC W07 60 L01 SCELE related
+ZCZC W07 200 L10 Assignment (General)
+ZCZC W07 120 L26 Movie: relax
