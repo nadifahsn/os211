@@ -98,3 +98,16 @@ ZCZC W07 180 L02 Zoom Related
 ZCZC W07 60 L01 SCELE related
 ZCZC W07 200 L10 Assignment (General)
 ZCZC W07 120 L26 Movie: relax
+ZCZC W08 150 L02 Zoom Related
+ZCZC W08 40 L11 Assignment #1
+ZCZC W08 60 L12 Assignment #2
+ZCZC W08 120 L13 Assignment #3
+ZCZC W08 20 L14 Assignment #4
+ZCZC W08 5 L15 Assignment #5
+ZCZC W08 5 L16 Assignment #6
+ZCZC W08 60 L05 GSGS Related: push in Github
+ZCZC W08 30 L01 SCELE related: check announcements, read and answer forum
+ZCZC W08 10 L09 AsDos: asking assignment
+ZCZC W08 60 L22 YouTube: study, listening music
+ZCZC W08 120 L26 Movie: relax
+ZCZC W08 300 L10 Assignment (General)
